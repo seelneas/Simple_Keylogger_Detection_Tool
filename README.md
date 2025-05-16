@@ -8,7 +8,7 @@ This project monitors your system for suspicious processes and file activity tha
 - Logs all findings to `detection_log.txt`
 
 
-## 📦 Installation
+## Installation
 
 ```bash
 pip install psutil watchdog pynput
