@@ -16,8 +16,6 @@ pip install psutil watchdog pynput
 
 ## Run
 
-```bash
-
 # Start the keylogger detection tool
 python main.py
 
