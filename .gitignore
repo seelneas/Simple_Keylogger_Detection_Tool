@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.log
+detection_log.txt
+suspicious_logs/
